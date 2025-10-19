@@ -1,4 +1,5 @@
 ## Hi there 👋
+I am a postgraduate ICT student at Ara, specialising in full-stack development and robust system infrastructure. I bridge the gap between design and development, leveraging my background in design and UX to create elegant, user-focused applications. My technical expertise spans web administration (PHP, JavaScript, WordPress) and hands-on system management in self-hosted environments (unRAID, Docker, Tailscale). Dedicated to continuous learning, systematic problem-solving, and building maintainable solutions.
 
 <!--
 **Reupenny/Reupenny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
